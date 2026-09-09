@@ -1,3 +1,1 @@
-# DSA-Lab1
-LAB1 of DSA
-editing 
+# DSA Lab 1
